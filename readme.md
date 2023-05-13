@@ -6,7 +6,6 @@ My name is Leandro de Jesus, I am a Systems Analysis and Development student, pa
 
  Currently looking for opportunities in software development, whether stable or full-time, where I can apply my skills and leverage my growth.
 
-<!-- I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5522996057593), [Telegram](https://t.me/isaacpontes_dev) or [email](mailto:contato@isaacpontes.dev.br) -->
 
 
 
@@ -24,7 +23,7 @@ My name is Leandro de Jesus, I am a Systems Analysis and Development student, pa
 
 <br/>
 
-You can find me here too 👇
+You can find me here too.
 
 <div>
 
